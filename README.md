@@ -1,5 +1,5 @@
 # Survival_Prediction_in_Marine_Ship_using_Computational_Intelligence_Techniques
-Methodology
+Methodology..
 
 In this paper, we explored the Titanic data from Kaggle and five machine learning algorithms namely Linear SVC, SVM, Logistic Regression, Random forests, ANN were implemented to predict survival rate of passengers. Some factors such as "Age", "Gender", "Children" played a key role towards the survival of Passengers. A comparative ana lysis between the s e algorithms were conducted and the models were evaluated by some metrics. Based on the ana lysis and me tri c s evaluation, ANN outperformed other implemented algorithms in this work.
 
