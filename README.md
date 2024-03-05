@@ -3,7 +3,7 @@ Methodology..
 
 In this paper, we explored the Titanic data from Kaggle and five machine learning algorithms namely Linear SVC, SVM, Logistic Regression, Random forests, ANN were implemented to predict survival rate of passengers. Some factors such as "Age", "Gender", "Children" played a key role towards the survival of Passengers. A comparative ana lysis between the s e algorithms were conducted and the models were evaluated by some metrics. Based on the ana lysis and me tri c s evaluation, ANN outperformed other implemented algorithms in this work.
 
-Pre-Processing of data:
+Pre-Processing of data:-
 
 1.Acquire the dataset: Acquiring the dataset is the first step in data preprocessing in machine learning. To build and develop Machine Learning models, you must first acquire the relevant dataset.
 2.Import all the crucial libraries: Since Python is the most extensively used and the most preferred library by Data Scientists around the world, we will show you how to import Python libraries for data preprocessing in Machine Learning.
